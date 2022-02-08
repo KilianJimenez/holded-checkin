@@ -1,5 +1,6 @@
 //Cypress API Testing Factorial
 
+/*
 const moment = require('moment')
 
 const currentMonth = Cypress.moment().format('M')
@@ -40,3 +41,4 @@ xit('', () => {
 			})
 		})
 })
+*/
